@@ -1,0 +1,11 @@
+{
+  "name": "cooke",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "parallax": "~1.0.0",
+    "normalize-css": "~3.0.0",
+    "jplayer": "~2.5.4"
+  },
+  "devDependencies": {}
+}
